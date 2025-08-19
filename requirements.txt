@@ -1,0 +1,7 @@
+numpy
+pandas
+# optional tambahan spesifik project
+pyyaml
+requests
+sqlalchemy
+joblib
